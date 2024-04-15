@@ -17,11 +17,9 @@ void selectionSort(int arr[], int n) {
 }
 
 int main() {
-    int n = 10000;
+    int n = 100000;
     int *arr = SortTestHelper::generateRandomArray(n, 0, n);
-    selectionSort(arr, n);
-    SortTestHelper::printArray(arr, n);
-    cout << endl;
+    SortTestHelper::testSort("Selection Sort", selectionSort, arr, n);
 
     delete[] arr;
 
