@@ -6,4 +6,5 @@ set(CMAKE_CXX_STANDARD 23)
 add_executable(play_with_algorithms main.cpp
         Sorting/MergeSort.h
         Sorting/SelectionSort.h
-        Sorting/InsertionSort.h)
+        Sorting/InsertionSort.h
+        Sorting/QuickSort.h)
