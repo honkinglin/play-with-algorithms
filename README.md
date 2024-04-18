@@ -1,1 +1,1 @@
-# play-with-algorithms
+# Play with Algorithms
