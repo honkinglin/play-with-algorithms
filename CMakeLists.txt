@@ -7,4 +7,8 @@ add_executable(play_with_algorithms main.cpp
         Sorting/MergeSort.h
         Sorting/SelectionSort.h
         Sorting/InsertionSort.h
-        Sorting/QuickSort.h)
+        Sorting/QuickSort.h
+        Heap/MaxHeap.h
+        Sorting/SortingTest.h
+        Heap/HeapTest.h
+)

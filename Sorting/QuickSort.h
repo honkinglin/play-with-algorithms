@@ -1,7 +1,7 @@
 #ifndef PLAY_WITH_ALGORITHMS_QUICKSORT_H
 #define PLAY_WITH_ALGORITHMS_QUICKSORT_H
 
-//#include "InsertionSort.h"
+#include "InsertionSort.h"
 
 namespace QuickSort {
     // partition the array arr[l...r] and return the index p
