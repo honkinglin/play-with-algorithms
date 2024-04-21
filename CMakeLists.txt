@@ -11,4 +11,5 @@ add_executable(play_with_algorithms main.cpp
         Heap/MaxHeap.h
         Sorting/SortingTest.h
         Heap/HeapTest.h
+        Heap/IndexHeap.h
 )
