@@ -12,4 +12,5 @@ add_executable(play_with_algorithms main.cpp
         Sorting/SortingTest.h
         Heap/HeapTest.h
         Heap/IndexHeap.h
+        UnionFind/UnionFind.h
 )
